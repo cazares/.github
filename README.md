@@ -2,6 +2,10 @@
 
 Building karaoke tools and exploring mobile app engineering.
 
+## Featured Work
+
+Built a karaoke-generation pipeline (Python CLI for audio processing, stem separation, lyric sync, video assembly) powering **[El Tololoche](https://youtube.com/@el.tololoche)** on YouTube — 1K+ subscribers, 1.4M+ views.
+
 ## Support
 
 If you find my work useful, consider supporting it:
